@@ -15,3 +15,22 @@ Key specific objectives include:
 -   Analyzing the distinctive ordering patterns of different customer profiles, considering factors like order value, frequency, and product choices.
 
 Our findings will be instrumental in shaping Instacart's future marketing strategies and ensuring that promotional efforts resonate with the right customer segments
+
+## Data
+
+The core of our analysis revolves around several open-source datasets provided by Instacart. In addition to these, a specially curated customer dataset is used for the scope of this project to address the pivotal questions outlined. While each dataset brings its unique information to the table, they are cohesively linked through common identifiers.
+
+Specific datasets utilized include:
+
+    customers
+    departments
+    orders
+    orders_products_prior
+    products
+
+These datasets form the backbone of our analysis, and we will be extracting, transforming, and analyzing data from them to derive meaningful insights.
+
+## Tools
+- Python: Jupyter Notebook
+- Excel
+  
